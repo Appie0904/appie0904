@@ -22,17 +22,21 @@ Languages:
  1. Python
 
 AI and Prompt Engineering:
+
  2. PromptEngineering / working with LLM's
   
 Frameworks:
+
  3. Django
   
 Computing Science:
+
  4. Datastructures and alghoritms
  5. system design/architecture 
   
-Cybersecurity:	
- 7. BugBounty
+Cybersecurity:
+
+7. BugBounty
 
 Im currently learning NodeJS at ZeroToMastery.
 
