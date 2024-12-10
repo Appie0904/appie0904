@@ -19,7 +19,7 @@ These are the courses I currently take:
 Besides the university I also follow Andrei Neagoie's ZeroToMastery program. Here I learned the following skills:
 
 Languages:
-  1. Python
+	1. Python
 
 AI and Prompt Engineering:
 	2. PromptEngineering / working with LLM's
