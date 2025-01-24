@@ -6,14 +6,14 @@ These are the courses I've succesfully passed:
   1. Introduction Artificial Intelligence (SOW-BKI135)
   2. Programming 1 (SOW-BKI131)
   3. Calculus 1 (SOW-BKI104)
+  4. Cognitive Psychology (SOW-BKI134)
 
 These are the courses I currently take:
 1. Academic Reading and Writing
 2. Introduction to Formal Reasoning
-3. Cognitive Psychology
-4. Programming 2
-5. Linear Algebra
-6. Probability Theory
+3. Programming 2
+4. Linear Algebra
+5. Probability Theory
 
 
 Besides the university I also follow Andrei Neagoie's ZeroToMastery program. Here I learned the following skills:
