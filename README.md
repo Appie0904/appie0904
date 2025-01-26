@@ -2,6 +2,9 @@
 
 My name is Alper and I'm an Artificial Intelligence Student at Radboud University, since september 2024. 
 
+My skills are:
+[![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css)](https://skillicons.dev)
+
 These are the courses I've succesfully passed:
   1. Introduction Artificial Intelligence (SOW-BKI135)
   2. Programming 1 (SOW-BKI131)
