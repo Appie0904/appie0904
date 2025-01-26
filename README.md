@@ -4,7 +4,7 @@ My name is Alper and I'm an Artificial Intelligence Student at Radboud Universit
 
 My skills are:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,js,html,css)](https://skillicons.dev)
 
 
 
